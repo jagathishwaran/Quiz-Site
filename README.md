@@ -1,20 +1,20 @@
 
 ## Title
 
-TG Codes💛 - Quiz Site
+Quiz Site
 ## Description 
 
 Presenting my JavaScript Quiz Website! Test your knowledge with a collection of engaging quizzes. Enjoy an interactive experience, responsive design, and captivating visuals. Enhance your learning while having fun. Accessible on any device for seamless quiz-taking. Expand your knowledge with this captivating quiz platform.
 ## Authors
 
-- [TG💛](https://www.github.com/codesofTG) 
+- [jagathishwaran](https://www.github.com/jagathishwaran) 
 
 
 ## Demo
 
 Live Demo:
 
-    https://codesoftg.github.io/TGCodes-Quiz-Site/
+        https://jagathishwaran.github.io/Quiz-Site/
 
     
 ## Getting Started
@@ -55,12 +55,7 @@ For any questions or inquiries, please feel free to reach out.
 
 TG :
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tg2691/)
-
-
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tg_262001)
-
-[![instagram](https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_tg.26_)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jagathishwaran-m-172928231)
 
 
 Thank you for visiting the page!
